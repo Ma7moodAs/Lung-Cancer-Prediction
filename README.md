@@ -36,4 +36,3 @@ The goal of this project is to predict whether a patient is likely to have lung 
 - Imbalanced-learn (SMOTE)
 - Matplotlib / Seaborn
 
-## 📁 Project Structure
