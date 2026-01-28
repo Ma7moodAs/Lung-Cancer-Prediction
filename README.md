@@ -1,0 +1,2 @@
+##### Lung Cancer Prediction
+Lung Cancer Prediction utilizing Support Vector Machines (SVC) and SMOTE for data balancing. This project features comprehensive EDA, hyperparameter tuning via RandomizedSearchCV, and robust performance evaluation metrics (ROC-AUC, Accuracy) to analyze health survey data.
